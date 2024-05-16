@@ -1,4 +1,8 @@
 <p align="center">
+<a href="https://alem.dev">
+ <img src="https://cdn.jsdelivr.net/gh/wpdas/alem/docs/assets/near-script-logo.png" alt="Além" width="100"/>
+ </a> 
+ <br>
  <a href="https://web3templates.com/?ref=nextly_github_logo">
  <img src="https://user-images.githubusercontent.com/1884712/132941531-0fdd7acf-47ca-424e-b77f-1fab2e372a37.png" alt="W3T" width="100" height="41"/>
  </a> 
@@ -6,7 +10,7 @@
  <br>
 </p>
 
-# Além - Landing Page Template with Além & Tailwind CSS
+# Nextly - Landing Page Template with Além & Tailwind CSS
 
 Nextly is a free landing page & marketing website template for startups and indie projects. Its built with Além & TailwindCSS.
 And its completely open-source.
