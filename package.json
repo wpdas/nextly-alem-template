@@ -1,0 +1,27 @@
+{
+  "name": "nextly-alem-template",
+  "version": "1.0.0",
+  "description": "The base template for Create Alem dApp",
+  "repository": "git@github.com:wpdas/create-alem-dapp.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "alem dev --network testnet",
+    "build": "alem build",
+    "deploy:mainnet": "npm run build; alem deploy",
+    "deploy:testnet": "npm run build; alem deploy --network testnet"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "alem": "1.2.0"
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0",
+    "@types/styled-components": "^5.1.26",
+    "lint-staged": "^13.2.1",
+    "prettier": "^2.8.8",
+    "tailwindcss": "3.4.3"
+  },
+  "lint-staged": {
+    "**/*.{js,jsx,ts,tsx}": "prettier --write --ignore-unknown"
+  }
+}
