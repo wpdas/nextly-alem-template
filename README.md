@@ -56,4 +56,5 @@ Deploy this template using [Além CLI](https://alem.dev/?path=cli) or using [Git
 ## Author
 
 Wenderson Pires ( [@wpdas](https://www.linkedin.com/in/wenderson-pires-silva/) ) - Software Engineer
+
 Surjith S M ( [@surjithctly](https://surjithctly.in/) ) - Web Designer
