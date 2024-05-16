@@ -15,6 +15,8 @@
 Nextly is a free landing page & marketing website template for startups and indie projects. Its built with Além & TailwindCSS.
 And its completely open-source.
 
+[**Live Preview**](https://near.social/wendersonpires.near/widget/nextly-alem-template)
+
 ![image](https://user-images.githubusercontent.com/1884712/121497169-03228680-c990-11eb-975a-e77fddc43de0.png)
 
 ## How to use

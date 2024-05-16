@@ -2,7 +2,7 @@
   "name": "nextly-alem-template",
   "version": "1.0.0",
   "description": "The base template for Create Alem dApp",
-  "repository": "git@github.com:wpdas/create-alem-dapp.git",
+  "repository": "https://github.com/wpdas/nextly-alem-template.git",
   "license": "MIT",
   "scripts": {
     "start": "alem dev --network testnet",

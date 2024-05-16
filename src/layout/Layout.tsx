@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import ThemeContext from "../contexts/ThemeProvider";
 
 const Layout = ({ children }: { children: React.ReactElement | React.ReactElement[] | any }) => {
-  const themeData = ThemeContext(); // 171717
+  const themeData = ThemeContext();
 
   return (
     <div className={themeData.theme}>

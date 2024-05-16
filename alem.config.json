@@ -1,17 +1,17 @@
 {
-  "isIndex": true,
-  "mainnetAccount": "alem-lib.near",
-  "testnetAccount": "alem-lib.testnet",
-  "name": "AppName",
-  "description": "App description",
+  "isIndex": false,
+  "mainnetAccount": "wendersonpires.near",
+  "testnetAccount": "wendersonpires.testnet",
+  "name": "Nextly Alem Template",
+  "description": "Nextly Landing Page Template built with Além & TailwindCSS",
   "linktree": {
-    "website": "github.com/wpdas/alem"
+    "website": "github.com/wpdas/nextly-alem-template"
   },
-  "image": {
-    "ipfs_cid": "bafkreicjdgat5xsw7vxbosoyygermawhkfi2by3ovg7c6tumrayn4rimty"
-  },
+  "image": "https://nextly.web3templates.com/img/logo.svg",
   "tags": [
+    "nextly",
     "alem",
+    "template",
     "dapp",
     "near",
     "bos"
