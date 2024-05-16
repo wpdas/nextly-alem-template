@@ -8,14 +8,6 @@ import Video from "@app/components/Video";
 import Layout from "@app/layout/Layout";
 import { benefitOne, benefitTwo } from "@app/modules/data";
 
-// TODO: Completar os arquivos que tem "Disclosure" sendo usado
-// TODO: Usar alias - DONE
-// TODO: Finalizar o tema noite / dia - DONE
-// TODO: O thema escolhido é salvo, devo fazer isso também para usar o mesmo em refresh de pagina - DONE
-// TODO: Socials, colocar o Além, View on Github deve apontar para o repositorio desse codigo
-
-// TODO: Mover Navbar e Footer para Layout - DONE
-
 const Home = () => {
   return (
     <Layout>
