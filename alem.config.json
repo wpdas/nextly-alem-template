@@ -7,7 +7,9 @@
   "linktree": {
     "website": "github.com/wpdas/nextly-alem-template"
   },
-  "image": "https://nextly.web3templates.com/img/logo.svg",
+  "image": {
+    "ipfs_cid": "bafkreigamd4f4t3vkhlkwu6bw2mzlvpnqwdcovjxxxoodrhsjhije3oyn4"
+  },
   "tags": [
     "nextly",
     "alem",
